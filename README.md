@@ -22,7 +22,7 @@ In the instance we created an HTML `index.html` and CSS `styles.css` file for a 
 
 - We created a new directory on our instance named it as *my-web-server*, and created 2 files in this directory (index.html & Styles.css) 
 
-![alt text](../img/6..png)
+![alt text](img/6..png)
 
 
 - We cloned the github repository on this instance using the command as shown below. 
