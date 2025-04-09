@@ -1,0 +1,76 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Navigation Bar Styles */
+nav {
+    background-color: #e4e4e4;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #007BFF;
+}
+
+/* Main Content Styles */
+main {
+    padding: 2rem;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+                                                                                                                                                                                                              1,1           All
+
